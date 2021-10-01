@@ -1,13 +1,12 @@
-// console.log("script is working from a different file"); : PRINT MESSAGE
+var btnTranslate= document.querySelector("#btn-translate");
+var txtInput=document.querySelector("#txt-input");
 
-// alert("THIS SCRIPT WORKS!") : GETS POPUP IN YOUR BROWSER WITH GIVEN MESSAGE
+function clickEventHandler(){
+    console.log("clicked!");
+    console.log("input", txtInput.value)
+}
+
+btnTranslate.addEventListener("click", clickEventHandler)
 
 
-// console.log("script is working from a different file");
-
-// ex-02 : alert and prompt
-
-// alert("THIS SCRIPT WORKS!")
-
-var username = prompt("Give me your username :")
-alert("this script works" + " " + username);
+// ex-04
