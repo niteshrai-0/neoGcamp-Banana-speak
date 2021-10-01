@@ -5,6 +5,8 @@
 
 // console.log("script is working from a different file");
 
-// ex-02
-alert("THIS SCRIPT WORKS!")
-// alert("THIS SCRIPT WORKS!" + username);
+// ex-02 : alert and prompt
+
+// alert("THIS SCRIPT WORKS!")
+
+alert("THIS SCRIPT WORKS!" + username);
