@@ -25,3 +25,15 @@ Javascript:
 // //output
 // alert(welcomeMessage);
 
+
+
+// live exercise
+
+// 1. document.querySelector("textarea");
+// 2. .btn-primary
+// 3.  #input-btn
+// 4. "input[name="translator"]"
+
+// outputDiv.innerText = "Nitesh Rai
+
+<div id="output">Minions are awesome.</div>
