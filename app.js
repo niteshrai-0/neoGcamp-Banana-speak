@@ -9,4 +9,5 @@
 
 // alert("THIS SCRIPT WORKS!")
 
-alert("THIS SCRIPT WORKS!" + username);
+var username = prompt("Give me your username :")
+alert("this script works" + " " + username);
