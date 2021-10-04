@@ -67,3 +67,16 @@ doFetch(text2)
 
 
 doFetch(text3)
+
+
+
+// outputDiv.innerText = "Nitesh Rai"
+// console.log(outputDiv);
+
+
+
+// var serverURL = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
+
+// outputDiv.innerText = "ajsjsjsjsjsj" + txtInput.ariaValueMax; 
+
+  //  console.log(json.contents.translated))
